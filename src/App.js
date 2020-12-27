@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import logo from './logo.svg';
 import './App.css';
 
@@ -20,6 +21,8 @@ function App() {
         </a>
       </header>
 =======
+=======
+>>>>>>> 31d8259cc3221299d49f141f9a494dd405799960
 import React, { useState } from "react";
 
 //Import Styles
@@ -56,7 +59,10 @@ function App() {
         currentSong={currentSong}
         libraryStatus={libraryStatus}
       />
+<<<<<<< HEAD
 >>>>>>> react-player
+=======
+>>>>>>> 31d8259cc3221299d49f141f9a494dd405799960
     </div>
   );
 }
